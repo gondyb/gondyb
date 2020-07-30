@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Benjamin 👋👨‍💻
 
-<!--
-**gondyb/gondyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a French 🇫🇷 Computer Science graduate passionate about tech, products, and curious about how things are made. I enjoy building stuff solving real-world problems around me. Technologies that I enjoy working with are mostly backen. They include Java, distributed sytems, Python, SQL and GraphQL. In my free time, I like to tinker around with embedded systems and small electronics.
 
-Here are some ideas to get you started:
+## 🔨 I'm currently looking for a full-time job!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Role : Software Engineer/Backend Engineer
+* Location : European big city
+* Product focused
+
+## ⚡ Facts about me
+
+* Extremely curious 🤓
+* Energy geek ⚛
+* Music lover 🎶
+* Home Automation tinkerer 🏡
+* Space exploration enthusiast 🚀
+
+## 📫 Reach me out!
+
+You can contact me on [LinkedIn](https://www.linkedin.com/in/benjamin-gondange/)!
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=gondyb&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gondyb&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
